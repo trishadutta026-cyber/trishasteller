@@ -36,7 +36,7 @@ This eliminates the need for manual royalty calculations and ensures trustless e
 ## 🔗 Deployed Smart Contract Link
 
 **Contract Address:**
-CDSDANTWT6MNQ7FBPOMR7SAW6Y4MJNTPKOI4N4CLT6R3CKSHZP7GB4RQ
+https://stellar.expert/explorer/testnet/contract/CDSDANTWT6MNQ7FBPOMR7SAW6Y4MJNTPKOI4N4CLT6R3CKSHZP7GB4RQ
 
 You can interact with this contract using Soroban CLI or integrate it into your Stellar-based applications.
 
